@@ -1,0 +1,56 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "PytestExercise.cases",
+    "children" : [ {
+      "name" : "demo",
+      "children" : [ {
+        "name" : "Test_demo",
+        "children" : [ {
+          "name" : "test_add",
+          "uid" : "75ddbe5952902d9e",
+          "parentUid" : "b2690ea3caa6ed50065d55342aa3f3f8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1607281056614,
+            "stop" : 1607281056614,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_add2",
+          "uid" : "b7b463e249fc3e13",
+          "parentUid" : "b2690ea3caa6ed50065d55342aa3f3f8",
+          "status" : "failed",
+          "time" : {
+            "start" : 1607281056617,
+            "stop" : 1607281056618,
+            "duration" : 1
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        }, {
+          "name" : "test_in",
+          "uid" : "dd5bd6ccc65bd2d6",
+          "parentUid" : "b2690ea3caa6ed50065d55342aa3f3f8",
+          "status" : "passed",
+          "time" : {
+            "start" : 1607281056687,
+            "stop" : 1607281056687,
+            "duration" : 0
+          },
+          "flaky" : false,
+          "newFailed" : false,
+          "parameters" : [ ]
+        } ],
+        "uid" : "b2690ea3caa6ed50065d55342aa3f3f8"
+      } ],
+      "uid" : "32271a2c4bb6580af4020278d93fb716"
+    } ],
+    "uid" : "7fc4f8ce942821aeaf2f57d74bab724e"
+  } ]
+}

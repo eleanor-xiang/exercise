@@ -1,0 +1,62 @@
+{
+  "uid" : "b7b463e249fc3e13",
+  "name" : "test_add2",
+  "fullName" : "PytestExercise.cases.demo.Test_demo#test_add2",
+  "historyId" : "aa93842c07da2e330b014cfd23db37d0",
+  "time" : {
+    "start" : 1607281056617,
+    "stop" : 1607281056618,
+    "duration" : 1
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert (30 + 1) >= 32",
+  "statusTrace" : "self = <cases.demo.Test_demo object at 0x03F11810>\n\n    def test_add2(self):#测试大于等于\n>       assert 30+1 >=32\nE       assert (30 + 1) >= 32\n\ncases\\demo.py:8: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "parentSuite",
+    "value" : "PytestExercise.cases"
+  }, {
+    "name" : "suite",
+    "value" : "demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_demo"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-PIOJM52N"
+  }, {
+    "name" : "thread",
+    "value" : "2344-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "PytestExercise.cases.demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "b7b463e249fc3e13.json",
+  "parameterValues" : [ ]
+}

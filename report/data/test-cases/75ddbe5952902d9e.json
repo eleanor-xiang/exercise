@@ -1,0 +1,59 @@
+{
+  "uid" : "75ddbe5952902d9e",
+  "name" : "test_add",
+  "fullName" : "PytestExercise.cases.demo.Test_demo#test_add",
+  "historyId" : "dcfdd2c2425609dc82a0b40f8c049a0d",
+  "time" : {
+    "start" : 1607281056614,
+    "stop" : 1607281056614,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "一级目录"
+  }, {
+    "name" : "parentSuite",
+    "value" : "PytestExercise.cases"
+  }, {
+    "name" : "suite",
+    "value" : "demo"
+  }, {
+    "name" : "subSuite",
+    "value" : "Test_demo"
+  }, {
+    "name" : "host",
+    "value" : "LAPTOP-PIOJM52N"
+  }, {
+    "name" : "thread",
+    "value" : "2344-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "PytestExercise.cases.demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "75ddbe5952902d9e.json",
+  "parameterValues" : [ ]
+}

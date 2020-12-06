@@ -1,0 +1,48 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "一级目录",
+    "children" : [ {
+      "name" : "test_add",
+      "uid" : "75ddbe5952902d9e",
+      "parentUid" : "a8e1b7a2ee1d5ac432a0447ff197c187",
+      "status" : "passed",
+      "time" : {
+        "start" : 1607281056614,
+        "stop" : 1607281056614,
+        "duration" : 0
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "a8e1b7a2ee1d5ac432a0447ff197c187"
+  }, {
+    "name" : "test_add2",
+    "uid" : "b7b463e249fc3e13",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1607281056617,
+      "stop" : 1607281056618,
+      "duration" : 1
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "test_in",
+    "uid" : "dd5bd6ccc65bd2d6",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1607281056687,
+      "stop" : 1607281056687,
+      "duration" : 0
+    },
+    "flaky" : false,
+    "newFailed" : false,
+    "parameters" : [ ]
+  } ]
+}
